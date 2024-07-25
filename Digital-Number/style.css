@@ -1,0 +1,36 @@
+.background {
+    background-color: rgb(247, 220, 220);
+}
+
+.highlight{
+    background-color: rgb(237, 124, 124);
+}
+
+.digits-display{
+    width:15rem
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-box{
+    margin-bottom: 1rem;;
+}
+
+.vertical-bars {
+    width: 4rem;
+}
+
+.block1,.block4,.block7 {
+    height: 1rem;
+    width: 4rem;
+    border-radius: 0.25rem;
+}
+
+.block2,.block3,.block5,.block6 {
+    height: 5rem;
+    width: 1rem;
+    border-radius: 0.25rem;
+}

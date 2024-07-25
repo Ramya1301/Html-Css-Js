@@ -1,0 +1,16 @@
+.d-flex{
+    display: flex;
+}
+
+.cell{
+    border:2px solid black;
+    width:5rem;
+    height:5rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.disable{
+    pointer-events: none;
+}
